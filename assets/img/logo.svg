@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200" role="img" aria-label="Origami Studio">
+  <polygon points="8,20 40,32 58,62 58,92" fill="#3b3fd1"/>
+  <polygon points="40,32 58,62 58,92 30,66" fill="#8b8fe8"/>
+  <polygon points="58,62 80,40 92,66" fill="#6266e0"/>
+  <polygon points="74,12 94,30 76,42" fill="#2a2db0"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="t d">
+  <title id="t">Ilustrasi burung origami Origami Studio</title>
+  <desc id="d">Burung origami berwarna biru dan ungu di atas latar lavender dengan tulisan Origami Studio dan Jasa Desain untuk Usaha Lokal.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f6fd"/><stop offset="1" stop-color="#dfe0fa"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="900" cy="300" r="250" fill="#c4c6f5" opacity=".45"/>
+  <circle cx="1040" cy="520" r="90" fill="#8b8fe8" opacity=".35"/>
+  <g transform="translate(640 60) scale(5.1)">
+    <polygon points="8,20 40,32 58,62 58,92" fill="#3b3fd1"/>
+    <polygon points="40,32 58,62 58,92 30,66" fill="#8b8fe8"/>
+    <polygon points="58,62 80,40 92,66" fill="#6266e0"/>
+    <polygon points="74,12 94,30 76,42" fill="#2a2db0"/>
+  </g>
+  <text x="80" y="270" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="30" font-weight="700" fill="#3b3fd1" letter-spacing="4">AGENSI STUDIO DESAIN</text>
+  <text x="80" y="360" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="82" font-weight="800" fill="#12123a">Origami</text>
+  <text x="80" y="445" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="82" font-weight="800" fill="#3b3fd1">Studio</text>
+  <text x="80" y="510" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="28" fill="#5d5f86">Jasa desain untuk usaha lokal</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" role="img" aria-labelledby="t d">
+  <title id="t">Grafik humor: lama pengerjaan revisi dikit aja</title>
+  <desc id="d">Diagram batang bergaya humor. Batang pendek berlabel Perkiraan klien lima menit. Batang tinggi berlabel Kenyataan tiga hari. Ini hanya lelucon, bukan data penelitian.</desc>
+  <rect width="1000" height="380" rx="24" fill="#fff4d6"/>
+  <g font-family="'Plus Jakarta Sans', Arial, sans-serif">
+    <text x="500" y="52" text-anchor="middle" font-size="26" font-weight="800" fill="#12123a">Revisi "dikit aja": versi klien vs versi kenyataan</text>
+    <line x1="120" y1="320" x2="880" y2="320" stroke="#12123a" stroke-width="3"/>
+    <rect x="260" y="296" width="150" height="24" rx="6" fill="#3b3fd1"/>
+    <text x="335" y="284" text-anchor="middle" font-size="22" font-weight="800" fill="#3b3fd1">5 menit</text>
+    <text x="335" y="352" text-anchor="middle" font-size="18" fill="#2b2c58">Perkiraan klien</text>
+    <rect x="590" y="100" width="150" height="220" rx="6" fill="#d64545"/>
+    <text x="665" y="88" text-anchor="middle" font-size="22" font-weight="800" fill="#d64545">3 hari</text>
+    <text x="665" y="352" text-anchor="middle" font-size="18" fill="#2b2c58">Kenyataan</text>
+    <text x="500" y="374" text-anchor="middle" font-size="13" fill="#5d5f86">* Hanya ilustrasi humor, bukan data penelitian</text>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" role="img" aria-labelledby="t d">
+  <title id="t">Ilustrasi sederhana pola lipat Miura</title>
+  <desc id="d">Dua gambar berdampingan. Kiri: lembar terbuka berisi jajaran genjang bergaris lipatan zig-zag. Kanan: lembar yang sama terlipat rapat menjadi bentuk kecil.</desc>
+  <rect width="1000" height="380" rx="24" fill="#f6f6fd"/>
+  <g stroke="#3b3fd1" stroke-width="3" stroke-linejoin="round">
+    <polygon points="70,80 170,60 170,130 70,150" fill="#8b8fe8"/>
+    <polygon points="170,60 270,80 270,150 170,130" fill="#c4c6f5"/>
+    <polygon points="270,80 370,60 370,130 270,150" fill="#8b8fe8"/>
+    <polygon points="70,150 170,130 170,200 70,220" fill="#c4c6f5"/>
+    <polygon points="170,130 270,150 270,220 170,200" fill="#8b8fe8"/>
+    <polygon points="270,150 370,130 370,200 270,220" fill="#c4c6f5"/>
+    <polygon points="70,220 170,200 170,270 70,290" fill="#8b8fe8"/>
+    <polygon points="170,200 270,220 270,290 170,270" fill="#c4c6f5"/>
+    <polygon points="270,220 370,200 370,270 270,290" fill="#8b8fe8"/>
+  </g>
+  <path d="M410 190h110m-18-16l18 16-18 16" fill="none" stroke="#6266e0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke="#3b3fd1" stroke-width="3" stroke-linejoin="round">
+    <polygon points="620,120 700,108 700,168 620,180" fill="#8b8fe8"/>
+    <polygon points="700,108 780,120 780,180 700,168" fill="#c4c6f5"/>
+    <polygon points="620,180 700,168 700,228 620,240" fill="#c4c6f5"/>
+    <polygon points="700,168 780,180 780,240 700,228" fill="#8b8fe8"/>
+  </g>
+  <g font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="20" font-weight="700" fill="#2b2c58" text-anchor="middle">
+    <text x="220" y="335">Terbuka</text>
+    <text x="700" y="335">Terlipat rapat</text>
+  </g>
+</svg>

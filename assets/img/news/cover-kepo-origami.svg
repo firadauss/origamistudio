@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="t d">
+  <title id="t">Ilustrasi bangau kertas dengan garis lipatan</title>
+  <desc id="d">Bangau origami bergaya geometris berwarna biru dan ungu dengan garis putus-putus sebagai tanda lipatan, serta tulisan Kepo Yuk.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a2db0"/><stop offset="1" stop-color="#6266e0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g fill="#fff" opacity=".08">
+    <polygon points="0,0 380,0 0,380"/>
+    <polygon points="1200,630 820,630 1200,250"/>
+  </g>
+  <g stroke="#fff" stroke-opacity=".35" stroke-width="3" stroke-dasharray="14 12" fill="none">
+    <path d="M610 90 L610 540"/>
+    <path d="M385 315 L835 315"/>
+    <path d="M451 156 L769 474"/>
+    <path d="M769 156 L451 474"/>
+  </g>
+  <g>
+    <polygon points="610,150 760,300 610,330" fill="#c4c6f5"/>
+    <polygon points="610,150 460,300 610,330" fill="#8b8fe8"/>
+    <polygon points="610,330 760,300 700,470" fill="#fff"/>
+    <polygon points="610,330 460,300 520,470" fill="#e6e7fb"/>
+    <polygon points="760,300 900,210 830,330" fill="#fff"/>
+    <polygon points="900,210 940,235 870,255" fill="#12123a"/>
+    <polygon points="460,300 330,330 400,360" fill="#c4c6f5"/>
+  </g>
+  <text x="70" y="140" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="30" font-weight="700" fill="#c4c6f5" letter-spacing="4">KEPO YUK</text>
+  <text x="70" y="230" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="68" font-weight="800" fill="#fff">7 Fakta Unik</text>
+  <text x="70" y="305" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="68" font-weight="800" fill="#fff">Seni Origami</text>
+</svg>

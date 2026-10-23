@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Ganti dengan domain Anda
+Sitemap: https://origamistudio.id/sitemap.xml
